@@ -1,4 +1,4 @@
-package com.mimaraslan;
+package com.gulcancelik;
 
 public class Kus extends Hayvan{
 
